@@ -87,7 +87,7 @@ class _LoginPageState extends State<LoginPage> {
                 keyboardType: TextInputType.emailAddress,
                 decoration: InputDecoration(
                   labelText: "Email",
-                  hintText: "124240140@student.upnyk.ac.id",
+                  hintText: "Intan@gmail.com",
                   prefixIcon: const Icon(Icons.email_outlined, color: primaryBrown),
                   focusedBorder: OutlineInputBorder(
                     borderSide: const BorderSide(color: primaryBrown, width: 2),
